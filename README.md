@@ -1,6 +1,6 @@
 - 👋 Olá! Me chamo Lucas Pessoli e tenho 18 anos
-- 📧 pessolilucas@gmail.com
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
+- 📧 pessolilucas@gmail.com
 
 
 - 🖊️ Linguagens que gosto de usar:
