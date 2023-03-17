@@ -11,6 +11,6 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 <h2 align="center">Estatísticas Git:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspessoli&show_icons=true&theme=transparent)
+![Lucas Pessoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspessoli&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspessoli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
