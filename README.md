@@ -11,7 +11,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 <h2>🔧 Projetos feitos por mim:</h2>
 
-- [Tela de Cadastro em C# integrado com MySQL](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Tela de Cadastro em C# integrado com MySQL](https://github.com/lucaspessoli/Sistema-Cadastro)
 
 <h2 align="center">Estatísticas Git:</h2>
 
