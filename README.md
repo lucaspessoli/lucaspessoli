@@ -4,11 +4,15 @@
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 pessolilucas@gmail.com
 
-- 🖊️ Linguagens que gosto de usar:
+<h2>🖊️ Linguagens que gosto de usar:</h2>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<h2>🔧 Projetos feitos por mim:</h2>
+
+- [Tela de Cadastro em C# integrado com MySQL](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
 <h2 align="center">Estatísticas Git:</h2>
 
 ![Lucas Pessoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspessoli&show_icons=true&theme=transparent)
