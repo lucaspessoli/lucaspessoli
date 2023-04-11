@@ -7,8 +7,8 @@
 <h2>🖊️ Linguagens que gosto de usar:</h2>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <h2>🔧 Projetos feitos por mim:</h2>
 
 - [Tela de Cadastro em C# integrado com MySQL](https://github.com/lucaspessoli/Sistema-Cadastro)
