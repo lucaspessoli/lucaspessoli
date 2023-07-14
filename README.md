@@ -34,12 +34,4 @@
 
 ---
 
-<h2 align="center">🔧 PORTFOLIO EM CONSTRUÇÃO 🔧</h2>
 
-
-<div align="center">
-
-
-<img src="https://github.com/lucaspessoli/lucaspessoli/assets/115120374/90b3c666-e687-4ff5-a7f2-b442a9d77ffd" width=400px />
-
-</div>
