@@ -1,8 +1,8 @@
 <h2 align="center">Biografia:</h2>
 
-- 👋 Olá! Me chamo Lucas Pessoli e estou atualmente estudando React! ❤️
+- 👋 Olá! Me chamo Lucas Pessoli! ❤️
 - 🎉 18 Anos
-- 🌐 Programação WEB
+- 🌐 Programação
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 📧 pessolilucas@gmail.com
 
@@ -10,11 +10,17 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=45px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=45px />
-<img src="https://cdn-icons-png.flaticon.com/512/460/460752.png" height=45px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height=45px />
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=45px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=45px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=45px/>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=45px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height=45px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height=45px />
+
+          
                     
   
 </div>
