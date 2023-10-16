@@ -1,9 +1,6 @@
 
 <img src="Images/Rainbow.gif" width="100%">
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/115120374?v=4" alt="Profile Picture">
-</div>
 
 <h3 align="center">Olá, eu sou o Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
